@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>sfx-kyc</groupId>
   <artifactId>nibbs-bvalidate-staging</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-FINAL</version>
   
   <packaging>ejb</packaging>
   <name>NIBBS Full Details Sandbox integration</name>
